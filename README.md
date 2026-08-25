@@ -24,14 +24,15 @@ I'm a Python developer focused on turning real-world problems into maintainable 
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Customer Churn Prediction](https://github.com/Elenor274/customer-churn-pipeline) | Reproducible classification workflow, preprocessing, model comparison, and evaluation | Python, Pandas, scikit-learn |
+| [Persian Tabular Cleaner](https://github.com/Elenor274/persian-tabular-cleaner) | Safe Persian CSV/Excel normalization with a CLI, Python API, and auditable reports | Python, Pandas, PersianTools |
 | [Invisible Cloak](https://github.com/Elenor274/invisible-cloak) | Real-time color segmentation and background replacement using a webcam | Python, OpenCV, NumPy |
+| [Customer Churn Prediction](https://github.com/Elenor274/customer-churn-pipeline) | Leakage-safe classification workflow, model comparison, and reproducible evaluation | Python, Pandas, scikit-learn |
 
 ## What I'm improving now
 
 ```text
-Production-ready Django  •  Automated testing  •  CI/CD
-Data pipelines            •  Model evaluation   •  Clean APIs
+Open-source releases      •  Automated testing  •  CI/CD
+Data quality pipelines    •  Model evaluation   •  Clean APIs
 ```
 
 ## Connect
