@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sina Adljoo</title>
+  <desc id="desc">Python and Django developer focused on data and artificial intelligence</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426" />
+      <stop offset="0.55" stop-color="#102a43" />
+      <stop offset="1" stop-color="#0f4c5c" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#44d7b6" />
+      <stop offset="1" stop-color="#60a5fa" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)" />
+  <circle cx="1050" cy="30" r="180" fill="#2563eb" opacity="0.10" />
+  <circle cx="1120" cy="265" r="125" fill="#2dd4bf" opacity="0.09" />
+  <g opacity="0.26" stroke="#7dd3fc" stroke-width="2">
+    <path d="M830 78h75l34 42h82" />
+    <path d="M780 158h105l38-35h112" />
+    <path d="M825 236h83l42-52h140" />
+  </g>
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="830" cy="78" r="5" /><circle cx="939" cy="120" r="5" /><circle cx="1021" cy="120" r="5" />
+    <circle cx="780" cy="158" r="5" /><circle cx="923" cy="123" r="5" /><circle cx="1035" cy="123" r="5" />
+    <circle cx="825" cy="236" r="5" /><circle cx="950" cy="184" r="5" /><circle cx="1090" cy="184" r="5" />
+  </g>
+  <rect x="72" y="72" width="8" height="176" rx="4" fill="url(#accent)" />
+  <text x="112" y="142" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700">Sina Adljoo</text>
+  <text x="115" y="191" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="25">Python &amp; Django Developer</text>
+  <text x="115" y="229" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="21">Backend Engineering  •  Data  •  AI</text>
+</svg>
