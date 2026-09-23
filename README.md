@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm a software engineer at **Sepehr Pardaz**, focused on building reliable business applications with Python, Django, and PostgreSQL.
+I'm a software engineer at **GolPakhsheAval (Golrang Industrial Group)**. I also develop business software through **Sepehr Pardaz**, my own software company, with a focus on Python, Django, and PostgreSQL.
 
 My current work centers on ERP and manufacturing systems: turning real operational workflows into software that is traceable, maintainable, and safe to update without disrupting business data.
 
